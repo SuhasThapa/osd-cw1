@@ -2,7 +2,7 @@
 
 ## 👥 Collaboration
 
-- Classmate identified a bug with `FullHourse()`
+- Rupesh dulal identified a bug with `FullHourse()`
 - Issue created: **"FullHourse() fails with reverse order inputs"**
 
 ## 🔧 Fix Process
