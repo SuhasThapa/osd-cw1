@@ -19,11 +19,6 @@
 
 - Opened PR → GitHub Actions passed → Merged
 
-## 📸 Evidence
-
-- Screenshot of issue
-- Screenshot of commit and PR
-- Screenshot of final merge and action passing
 
 ## 🤔 Reflections
 
